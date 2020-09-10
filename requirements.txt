@@ -28,3 +28,4 @@ wikipedia
 zalgo-text
 covid
 bs4
+jikanpy
