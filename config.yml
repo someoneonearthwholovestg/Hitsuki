@@ -1,25 +1,25 @@
 ##############################
 # Please edit this line to "not_sample_anymore" to make the bot run
-is_example_config_or_not: "not_sample_anymore"
+is_example_config_or_not: "Ahhhhhhhhhhh i am not blind so i'll follow what the line above me asked"
 ##############################
-bot_token: "1369905560:AAFQ3m68t1o2HkErI7rIaS57IIGZmvNbO8Y"
-api_key: '1330827'
-api_hash: '1728cae708ccccb7ae7cbf0139b99880'
-owner_id: 864254084
-owner_username: "Decomposed"
-message_dump: "1001162589880"
-gban_dump: "1001288700393"
+bot_token: "Your bot token"
+api_key: ''
+api_hash: ''
+owner_id: 123456
+owner_username: "OWNER USERNAME"
+message_dump: "CHAT ID"
+gban_dump: "CHAT ID"
 load: []
-no_load: [jikanpy]
-strict_antispam: True
+no_load: []
+strict_antispam: False
 workers: 4
 deepfry_token: None
 del_cmds: False
-sw_api: '1U8he5JBeNoDqtT8DjdCoQX26NPf_AOKTAx0ufuMOnqR4Lhizw_AQ9ZhHz1BMbtc'
+sw_api: ''
 lastfm_api_key: ''
 
 # Database
-database_url: "postgres://jloxwcbuuydmmo:9d23a0c481bef3e8a4443445de27e768bd5b9e8953b747592fa4760e658d558e@ec2-184-72-235-80.compute-1.amazonaws.com:5432/dc61tsfngba5lf"
+database_url: "postgres://username:password@host:5432/database_name"
 
 # Permission
 sudo_users: []
