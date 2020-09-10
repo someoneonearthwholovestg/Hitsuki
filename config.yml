@@ -10,7 +10,7 @@ owner_username: "Decomposed"
 message_dump: "1001162589880"
 gban_dump: "1001288700393"
 load: []
-no_load: []
+no_load: [jikanpy]
 strict_antispam: True
 workers: 4
 deepfry_token: None
